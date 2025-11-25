@@ -1,13 +1,20 @@
 CSS
 html
 {
-  background-color= beige
+  background-color: HSL(349, 45%, 84%)
 }
 body
 {
-color=  
+color: HSL(349, 45%, 84%)
 }
 h1{
-  color= purple
+  color: HSL(129, 77%, 73%)
   
+}
+button{
+background-color: HSL(0, 57%, 63%)
+}
+
+h2{
+color: HSL(71, 100%, 83%)
 }
