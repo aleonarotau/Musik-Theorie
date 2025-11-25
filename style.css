@@ -1,8 +1,13 @@
 CSS
+html
 {
   background-color= beige
 }
-h1
+body
 {
-color= 
+color=  
+}
+h1{
+  color= purple
+  
 }
